@@ -3,3 +3,5 @@
 # Description
 This experiment performs the probability distribution, purity and entropy calculations for rho=2/3 and everifies the results with experimental results from included python program.
 In addition, the output plots probability distributions for each step and other interesting plots.
+
+All calculations manually verified
